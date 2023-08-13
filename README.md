@@ -1,1 +1,2 @@
-"# Text_Editor_Desk_App" 
+Text Editor
+Tech-Stack --> JSwing (Compenents);
