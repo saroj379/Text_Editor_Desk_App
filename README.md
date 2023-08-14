@@ -1,3 +1,3 @@
 # Compression - Decompression
 
-This is a Desk-app  to <b>Compress</b> to acquire less memory space on the desktop and as required, we can get the original form by doing <b>Decompression</b>.
+This is a Desk-app  to <strong><i>Compress</i></strong> to acquire less memory space on the desktop and as required, we can get the original form by doing <strong><i>Decompression</i></strong>.
