@@ -1,2 +1,3 @@
-<h1>Text Editor</h1> <br>
-Tech-Stack --> JSwing (Compenents);
+# Compression - Decompression
+
+This is a Desk-app  to Compress to acquire less memory space on the desktop and as required, we can get the original form as doing <br>Decompression.
