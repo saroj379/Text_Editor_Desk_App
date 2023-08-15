@@ -42,7 +42,7 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 <hr>
 
 ![Edit menu-items](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221733.png)
-<ol>
+
 	<li>Edit Menu-Items</li>
 		<ul>
 			 <li>Cut  -->  To cut the selected part.</li>
@@ -51,11 +51,11 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 			 <li>Select All  -->  To select all the text of the <i>TextEditor</i>.</li>
 			 <li>Font size  -->  To make big of the font small according to the user.</li>
 		</ul>
-<!--  </ol> -->
+
 <hr>
 
 ![When dark theme enabled](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221809.png)
-<ol>
+
 	<li>Themes Menu-Items</li>
 		<ul>
 		 <li>Dark  -->  To make the dark background and text white.</li>
