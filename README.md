@@ -48,8 +48,14 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 </ul>
 <hr>
 
-![When dark theme enabled](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221809.png) 
-<p>When dark theme is enabled.</p>
+![When dark theme enabled](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221809.png)
+<p>Themes Menu-Items</p>
+<ul>
+ <li>Dark  -->  To make dark background and text whilte.</li>
+ <li>Light  -->  To make white bg and text black.</li>
+ <li>MonoLight  -->  To make light-blue and text black.</li>
+</ul>
+<p>Here, the dark theme is enabled.</p>
 <hr>
 
 
@@ -62,11 +68,13 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 <hr>
 
 ![New Window](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222011.png)
-<p>Before closing the Window it will ask to confirm.</p>
+
 <hr>
 
 ![Existing file open](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222030.png) <hr>
 
 ![Tilel name as the existing file name](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222056.png) <hr>
 
-![When ask for exit](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222253.png) <hr>
+![When ask for exit](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222253.png)
+<p>Before closing the Window it will ask to confirm.</p>
+<hr>
