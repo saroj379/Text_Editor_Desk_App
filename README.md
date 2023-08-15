@@ -1,6 +1,6 @@
 # Text-Editor Using JavaSwing
 
-This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we can write any piece of text and save at desired location & open a existing file on it.
+This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we can write any piece of text and save it at desired location & open an existing file on it.
 
 ## Tech Stack
 
@@ -53,11 +53,17 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 <hr>
 
 
-![Enter font-size](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221936.png) <hr>
+![Enter font-size](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221936.png)
+<p>Asking for font size that is required for a User.</p>
+<hr>
 
-![When font-size is 46.](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221942.png) <hr>
+![When font-size is 46.](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221942.png)
+<p>When font size is entered **46**. The text size is increased.</p>
+<hr>
 
-![New Window](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222011.png) <hr>
+![New Window](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222011.png)
+<p>Before closing the Window it will ask to confirm.</p>
+<hr>
 
 ![Existing file open](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222030.png) <hr>
 
