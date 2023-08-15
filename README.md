@@ -13,7 +13,7 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 - Fullscreen mode
 - Cross-platform
 
-## Steps Followed to Desk-TextEditor
+## Set-up for TextEditor
 
  - [Download NetBeans](https://netbeans.apache.org/download/index.html)
  - [Set-up JDK (Latest Version)](https://www.oracle.com/java/technologies/downloads/)
