@@ -63,7 +63,7 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 			 <li>MonoLight  -->  To make light blue and text black.</li>
 		</ul>
 </ol>
-<p>Here, the dark theme is enabled.</p>
+<p> <i>Here, the dark theme is enabled.</i></p>
 <hr>
 
 
