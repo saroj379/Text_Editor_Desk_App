@@ -60,7 +60,7 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 
 
 ![Enter font-size](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221936.png)
-<p>Asking for font size that is required for a User.</p>
+<p>Here the moonlight bg is enabled & Asking for font size that is required for a User.</p>
 <hr>
 
 ![When font-size is 46.](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221942.png)
@@ -72,10 +72,12 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 <hr>
 
 ![Existing file open](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222030.png)
-<p>When open an Existing file from file chooser then it will take the file and all text of that file and to show with its file_name on title bar.</p>
+<p>When open an Existing file from file chooser </p>
 <hr>
 
-![Tilel name as the existing file name](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222056.png) <hr>
+![Tilel name as the existing file name](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222056.png) 
+<p>Then it will take the file and all text of that file and to show with its file_name on title bar.</p>
+<hr>
 
 ![When ask for exit](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222253.png)
 <p>Before closing the Window it will ask to confirm.</p>
