@@ -38,18 +38,18 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
            <li>Save file  -->  Save the text file at the desired location.</li> 
            <li>Exit -->  Exit the text-editor.</li>
         </ul>
-</ol>
+
 <hr>
 
 ![Edit menu-items](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221733.png)
 <ol>
 	<li>Edit Menu-Items</li>
 		<ul>
-		 <li>Cut  -->  To cut the selected part.</li>
-		 <li>Compy  -->  To copy the selected part of the text.</li>
-		 <li>Paste  -->  To paste the cut or copy text.</li>
-		 <li>Select All  -->  To select all the text of the <i>TextEditor</i>.</li>
-		 <li>Font size  -->  To make big of the font small according to the user.</li>
+			 <li>Cut  -->  To cut the selected part.</li>
+			 <li>Compy  -->  To copy the selected part of the text.</li>
+			 <li>Paste  -->  To paste the cut or copy text.</li>
+			 <li>Select All  -->  To select all the text of the <i>TextEditor</i>.</li>
+			 <li>Font size  -->  To make big of the font small according to the user.</li>
 		</ul>
 <hr>
 
