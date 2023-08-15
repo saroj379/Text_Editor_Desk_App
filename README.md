@@ -72,11 +72,11 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 <hr>
 
 ![Existing file open](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222030.png)
-<p>When open an Existing file from file chooser </p>
+<p>When open an Existing file & to select through file chooser option.</p>
 <hr>
 
 ![Tilel name as the existing file name](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222056.png) 
-<p>Then it will take the file and all text of that file and to show with its file_name on title bar.</p>
+<p>Then it will take the file and all text of that file and to show it with its file_name on the title bar.</p>
 <hr>
 
 ![When ask for exit](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222253.png)
