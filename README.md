@@ -29,13 +29,16 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 <hr>
 
 ![File menu-items](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221724.png)
-<p>File Menu-items.</p>
-<ul>
- <li>New window  -->  Open up a new window.</li>
- <li>Open file  -->  Open a Existing file. it will show the name of the file on the title bar.</li>
- <li>Save file  -->  Save the text file at the desired location.</li> 
- <li>Exit -->  Exit the text-editor.</li>
-</ul>
+
+<ol>
+    <li>File Menu-items.</li>
+          <ul>
+           <li>New window  -->  Open up a new window.</li>
+           <li>Open file  -->  Open a Existing file. it will show the name of the file on the title bar.</li>
+           <li>Save file  -->  Save the text file at the desired location.</li> 
+           <li>Exit -->  Exit the text-editor.</li>
+          </ul>
+</ol>
 <hr>
 
 ![Edit menu-items](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221733.png)
