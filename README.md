@@ -51,9 +51,9 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 ![When dark theme enabled](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221809.png)
 <p>Themes Menu-Items</p>
 <ul>
- <li>Dark  -->  To make dark background and text whilte.</li>
+ <li>Dark  -->  To make the dark background and text white.</li>
  <li>Light  -->  To make white bg and text black.</li>
- <li>MonoLight  -->  To make light-blue and text black.</li>
+ <li>MonoLight  -->  To make light blue and text black.</li>
 </ul>
 <p>Here, the dark theme is enabled.</p>
 <hr>
@@ -68,10 +68,12 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 <hr>
 
 ![New Window](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222011.png)
-
+<p>When clicking the new window menu-item then it opens a newly fresh & clean window.</p>
 <hr>
 
-![Existing file open](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222030.png) <hr>
+![Existing file open](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222030.png)
+<p>When open an Existing file from file chooser then it will take the file and all text of that file and to show with its file_name on title bar.</p>
+<hr>
 
 ![Tilel name as the existing file name](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222056.png) <hr>
 
