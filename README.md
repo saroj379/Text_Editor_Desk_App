@@ -48,9 +48,10 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 </ul>
 <hr>
 
-![When dark theme enabled](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221809.png) <hr>
+![When dark theme enabled](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221809.png) 
+<p>When dark theme is enabled.</p>
+<hr>
 
-![When monoLight theme enabled](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221809.png) <hr>
 
 ![Enter font-size](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221936.png) <hr>
 
