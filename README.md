@@ -8,10 +8,11 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 
 ## Features
 
-- Compressed files to reduce memory
-- Decompress as well to get the Original file
-- Fullscreen mode
-- Cross-platform
+- All kinds of Operations (cut, copy, paste, open file, save file, exit).
+- Different themes are available like dark, light, moonLight.
+- We can change the font size according to our requirements.
+- Fullscreen mode.
+- Cross-platform.
 
 ## Set-up for TextEditor
 
