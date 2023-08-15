@@ -30,10 +30,10 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 ![File menu-items](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221724.png)
 <p>File Menu-items.</p>
 <ul>
- <li>New window</li> -> Open up a new window.
- <li>Open file</li> -> <p>Open a Existing file. it will show the name of the file on the title bar.</p>
- <li>Save file</li> -> <p>Save the text file at desired location.</p>
- <li>Exit</li> -> <p>Exit the text-editor.</p>
+ <li>New window -> Open up a new window.</li>
+ <li>Open file -> <p>Open a Existing file. it will show the name of the file on the title bar.</p></li>
+ <li>Save file-> <p>Save the text file at desired location.</p></li> 
+ <li>Exit -> <p>Exit the text-editor.</p></li>
 </ul>
 <hr>
 
