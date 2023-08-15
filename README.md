@@ -17,3 +17,7 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 
  - [Download NetBeans](https://netbeans.apache.org/download/index.html)
  - [Set-up JDK (Latest Version)](https://www.oracle.com/java/technologies/downloads/)
+
+## Some Screenshots of this Project
+
+![Home Windown]()
