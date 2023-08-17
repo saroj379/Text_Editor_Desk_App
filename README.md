@@ -69,7 +69,6 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 
 ![Enter font-size](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221936.png)
 <p>Here the moonlight bg is enabled & Asking for the font size that is required for a User.</p>
-<p>Here the moonLight theme is enabled and text is black.</p>
 <hr>
 
 ![When font-size is 46.](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20221942.png)
