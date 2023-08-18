@@ -87,6 +87,7 @@ This is a Desk-app  of <strong><i>Text-Editor</i></strong>. <br> In this app, we
 <p>Then it will take the file and all text of that file and to show it with its file_name on the title bar.</p>
 <hr>
 
-![When ask for exit](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-12%20222253.png)
-<p>Before closing the Window it will ask to confirm.</p>
+![When ask for exit](https://github.com/saroj379/Text_Editor_Desk_App/blob/main/ScreenShots/Screenshot%202023-08-18%20154904.png)
+<p>Before closing the Window it will ask for a confirmation to save or not</p>
+<p>If there is no text then it will not ask to Save but if there is some text then it will ask!</p>
 <hr>
