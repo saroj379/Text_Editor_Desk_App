@@ -162,7 +162,6 @@ public class TextEditor implements ActionListener{
             @Override
             public void windowClosing(WindowEvent e){
                 String txtFieldStr = txtArea.getText();
-                System.out.print(txtFieldStr);
                 // if there is blank text so not need to save the file
                 if(txtFieldStr.length() == 0) frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                 // if there is atlist some text then ask for save or not
