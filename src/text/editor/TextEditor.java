@@ -161,9 +161,39 @@ public class TextEditor implements ActionListener{
         frame.addWindowListener(new WindowAdapter(){
             @Override
             public void windowClosing(WindowEvent e){
-                int opt = JOptionPane.showConfirmDialog(frame, "Do you want to exit?");
-                if(opt == JOptionPane.YES_OPTION) {
-                    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+                String txtFieldStr = txtArea.getText();
+                System.out.print(txtFieldStr);
+                // if there is blank text so not need to save the file
+                if(txtFieldStr.length() == 0) frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+                // if there is atlist some text then ask for save or not
+                else{
+                    int opt = JOptionPane.showConfirmDialog(frame, "Do you want to Save?");
+                    if(opt == JOptionPane.YES_OPTION) {
+                        // initialize file picker
+                        JFileChooser fileChooser = new JFileChooser("Desktop:");
+                        // get choose option from file chooser
+                        int chooseOption = fileChooser.showSaveDialog(null);
+                        if(chooseOption == JFileChooser.APPROVE_OPTION){
+                            //create a new file with chosen directory path and file name
+                            File file = new File(fileChooser.getSelectedFile().getAbsolutePath()+".txt");
+                            try{
+                                // initialize file writer
+                                FileWriter fileWriter = new FileWriter(file);
+                                //initialize buffer writer
+                                BufferedWriter bufferWriter = new BufferedWriter(fileWriter);
+                                //Write contents of text area to file
+                                txtArea.write(bufferWriter);
+                            }
+                            catch(IOException ioException){
+                                ioException.printStackTrace();
+                            }
+                        }
+                        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+                    }
+                    else if(opt == JOptionPane.NO_OPTION) {
+                        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+                    }
+                    else frame.setVisible(true);
                 }
             }
         });
